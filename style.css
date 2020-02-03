@@ -1,0 +1,21 @@
+.board{
+background-color: rgb(169, 170, 169);
+border: 1px solid black;
+
+}
+
+.cell{
+    border: 1px solid black;
+    padding: 1px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+}
+.cell:hover{
+    background-color: gainsboro;
+}
+
+
+.container{
+    background-color: rgb(191, 243, 240);
+}
